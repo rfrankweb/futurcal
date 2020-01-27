@@ -28,3 +28,11 @@
 
 ## Other Resources
 - **RESEARCH**
+
+# Actual Writing
+
+Ah, yes. Vim. The text editor for those developers that are obsessed with squeezing every millisecond out of their tasks. Macros, cron jobs, automated tasks. Efficiency, efficiency, efficiency. 
+
+But wait. I happen to like Vim. Sure, I might be a little obsessed with efficiency, but it’s not just that. Vim is light, efficient, and will run on just about anything.
+
+“But what is Vim?”, you self-taughts or newbies may ask.
